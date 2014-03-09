@@ -58,7 +58,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p880/proprietary/lib/libnvcap_video.so:system/lib/libnvcap_video.so \
     vendor/lge/p880/proprietary/lib/libnvcapclk.so:system/lib/libnvcapclk.so \
     vendor/lge/p880/proprietary/lib/libnvcpud.so:system/lib/libnvcpud.so \
-    vendor/lge/p880/proprietary/lib/libnvcpud_client.so:system/lib/libnvcpud_client.so \
     vendor/lge/p880/proprietary/lib/libnvddk_2d.so:system/lib/libnvddk_2d.so \
     vendor/lge/p880/proprietary/lib/libnvddk_2d_v2.so:system/lib/libnvddk_2d_v2.so \
     vendor/lge/p880/proprietary/lib/libnvglsi.so:system/lib/libnvglsi.so \
